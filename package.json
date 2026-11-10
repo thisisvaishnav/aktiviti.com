@@ -1,0 +1,18 @@
+{
+  "name": "aktiviti-website",
+  "version": "1.0.0",
+  "description": "Official marketing website and documentation for Aktiviti (aktiviti.com)",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "aktiviti",
+    "macos",
+    "activity-monitor",
+    "system-monitor",
+    "apple-silicon"
+  ],
+  "author": "Vaishnav",
+  "private": true
+}
